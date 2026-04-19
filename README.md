@@ -103,6 +103,7 @@ jupyter notebook
 ## Author
 
 **Sayan Goswami**
+**Sushmita Chatterjee**
 
 ---
 
